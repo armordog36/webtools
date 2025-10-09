@@ -107,3 +107,8 @@ a:active {
 .nav-link:active {
     color: #F2F7FD;
 }
+
+.fluid-img{
+    max-width: 100%;
+    height: auto;
+}
